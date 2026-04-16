@@ -1,0 +1,11 @@
+{
+  "name": "site-treino-responsividade",
+  "version": "1.0.0",
+  "description": "P\u251c\u00edgina web simples criada para praticar conceitos b\u251c\u00edsicos de Design Responsivo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BillNobill",
+  "license": "MIT"
+}
